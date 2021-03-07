@@ -1,0 +1,44 @@
+*English Description*
+
+I'm quite poor in English, in which case I'm so sorry to leave some grammar mistakes here.
+You're welcome to try this [Turn Spears into Javelins] mod!
+The mod adds "Alt Fuction Use" to all vanilla spears (or pikes or other spear-like melee weapons).
+WILL make assistance to other mods (if that comes, Calamity will be the first I guess) but not until when I'm no longer lazy :)
+
+It includes:
+Spear, Trident, Swordfish, TheRottedFork
+DarkLance, ObsidianSwordfish
+Cobalt/Palladium/Mythril/Orchalcum/Adamantite/Titanium spear
+ Gungnir, MushroomSpear
+ChloropytePartisan, NorthPore
+
+Not includes:
+GhastlyGlaive, on the one hand not many people can obtain it in common playthrough, on the other hand it actually dosen't attack like normal spears
+-but the most important thing is that I spent minutes looking for its inner name ending finding "MonkStaffT2". On that second I decided this weapon just should be left here without any attentions =)
+ScourgeoftheCorruptor/Daybreak, they ARE javelins currently (Not going to turn javelins into spears!)
+Non-melee weapons like Javelin/BoneJavelin
+
+There WILL be balancing issues 'cause I balanced them to "Can get next spear with this one"
+For examples, Swordfish and TheRottenFork can slain Skeleton, ChloropytePartisan can overwelm FrostMoon, while NorthPole butchers MoonLord easily
+
+*中文描述*
+
+欢迎使用【把长矛转化为投矛】模组！
+此模组给所有原版长矛加入了右键使用模式
+有计划支持其他模组，但是我懒了—v—
+
+包括：
+长矛，三叉戟，剑鱼，腐叉
+暗黑长戟，黑曜石剑鱼
+钴蓝、钯金矛，秘银、山铜矛，精金、钛金矛
+冈格尼尔（神圣矛），蘑菇矛
+叶绿镋，北极
+
+不包括：
+恐怖关刀，一是正常流程没人去拿，二是它攻击方式实际上并不是传统的长矛
+——但最重要的是我花了十几分钟找它的内部名字最后发现是“MonkStaffT2（二阶和尚法杖）”。在那一刻我觉得这武器就该丢在没人想得起来的地方吃灰
+腐化灾兵和破晓，它们本身就是投矛（我并不打算给投矛加入长矛的使用方法！）
+标枪，骨质标枪等等连战士武器都不是的东西
+
+【会有】平衡问题，因为我是按能拿到下一把矛的强度计算的
+比如剑鱼和腐叉能杀死骷髅王，叶绿镋能打霜月，而北极能够击杀月球领主（大概）
